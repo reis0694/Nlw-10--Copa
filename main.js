@@ -10,6 +10,8 @@ function createGame(player1, hour, player2) {
   `
 }
 
+// TESTE
+
 let delay = -0.4
 function createCard(date, day, games) {
   delay = delay + 0.4
