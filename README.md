@@ -18,7 +18,7 @@ Evento online e gratuito de programação promovido pela <a href="https://www.ro
 <br>
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/117181934/205421342-a70ab2b9-3599-48ae-a5f4-f330aa07ff66.png)
+![image](https://user-images.githubusercontent.com/117181934/205421852-92f79f88-8644-4f03-ad61-0ed1c39a837c.png)
 </p>
 
 ## 🚀 Tecnologias
